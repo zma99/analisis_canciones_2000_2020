@@ -22,7 +22,7 @@ Incluye el proceso completo de **ETL**, **análisis exploratorio (EDA)** y **res
 - Lenguaje: Python  
 - Librerías principales: **pandas**, **matplotlib**, **seaborn**, **sqlalchemy**  
 - Entorno: Google Colab  
-- Fuente de datos: [www.kaggle.com (](https://www.kaggle.com/datasets/waqi786/songs-dataset-2000-2020-50k-records?select=songs_2000_2020_50k.csv)
+- Fuente de datos: [www.kaggle.com](https://www.kaggle.com/datasets/waqi786/songs-dataset-2000-2020-50k-records?select=songs_2000_2020_50k.csv)
 
 ---
 
