@@ -7,7 +7,7 @@ Incluye el proceso completo de **ETL**, **análisis exploratorio (EDA)** y **res
 
 ### Abrir en Google Colab
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPO/blob/main/TU_NOTEBOOK.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zma99/analisis_canciones_2000_2020/blob/main/Laboratorio_Analisis_Datos_Informatorio_2025.ipynb)
 
 ---
 
